@@ -1,0 +1,17 @@
+body{
+    text-align: center;
+    margin-top: 130px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: white;
+    background-color: black;
+}
+
+.number{
+    padding:8%;
+    font-size: 3rem;;
+}
+
+.btn{
+    margin:4%;
+}
